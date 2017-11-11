@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+cleaned_input/
+helpers.py
+raw_data/
+submission3.csv.gz
